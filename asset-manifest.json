@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/message-creator/static/css/main.0e635b1b.css",
+    "main.js": "/message-creator/static/js/main.a3f8f1c7.js",
+    "index.html": "/message-creator/index.html",
+    "main.0e635b1b.css.map": "/message-creator/static/css/main.0e635b1b.css.map",
+    "main.a3f8f1c7.js.map": "/message-creator/static/js/main.a3f8f1c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e635b1b.css",
+    "static/js/main.a3f8f1c7.js"
+  ]
+}
