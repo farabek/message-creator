@@ -1,0 +1,29 @@
+.wrapper {
+	margin-bottom: 30px;
+}
+
+.block {
+	display: flex;
+	flex-direction: row;
+}
+
+.conditionText {
+	width: 50px;
+	display: flex;
+	font-size: 18px;
+	font-weight: 800;
+	margin-top: 16px;
+}
+
+.textareaBlock {
+	width: 100%
+}
+
+.deleteBtn {
+	background-color: red;
+	font-weight: 600;
+	padding: 5px;
+	height: 30px;
+	margin-top: 10px;
+	border-radius: 5px;
+}
